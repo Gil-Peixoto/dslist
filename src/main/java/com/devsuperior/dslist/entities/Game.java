@@ -134,11 +134,4 @@ public class Game {
 		return Objects.equals(id, other.id);
 	}
 	
-	
-	
-	
-	
-	
-		
-
 }
